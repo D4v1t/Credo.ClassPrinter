@@ -19,7 +19,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Credo.ClassPrinter.BL\Credo.ClassPrinter.BusinessLogic.csproj" />
-    <ProjectReference Include="..\Credo.ClassPrinter.Models\Credo.ClassPrinter.Models.csproj" />
   </ItemGroup>
 
   <ItemGroup>
