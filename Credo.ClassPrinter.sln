@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credo.ClassPrinter.Business
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credo.ClassPrinter.Tests", "Credo.ClassPrinter.Tests\Credo.ClassPrinter.Tests.csproj", "{A20989C9-5B97-47EB-9E93-44314EE1DC94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credo.ClassPrinter.Models", "Credo.ClassPrinter.Models\Credo.ClassPrinter.Models.csproj", "{3D656586-4A7B-470C-955F-4E53B081E6DF}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credo.ClassPrinter.DataContracts", "Credo.ClassPrinter.DataContracts\Credo.ClassPrinter.DataContracts.csproj", "{10F1F99D-6FF1-43B2-8AC6-840F979761E8}"
 EndProject
 Global
@@ -37,10 +35,6 @@ Global
 		{A20989C9-5B97-47EB-9E93-44314EE1DC94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A20989C9-5B97-47EB-9E93-44314EE1DC94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A20989C9-5B97-47EB-9E93-44314EE1DC94}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3D656586-4A7B-470C-955F-4E53B081E6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3D656586-4A7B-470C-955F-4E53B081E6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3D656586-4A7B-470C-955F-4E53B081E6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3D656586-4A7B-470C-955F-4E53B081E6DF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{10F1F99D-6FF1-43B2-8AC6-840F979761E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{10F1F99D-6FF1-43B2-8AC6-840F979761E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F1F99D-6FF1-43B2-8AC6-840F979761E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
